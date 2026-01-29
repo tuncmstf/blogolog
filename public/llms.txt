@@ -1,0 +1,7 @@
+# Blogolog
+Türkçe bilgilendirici blog (genel konular + bazen gündem). Amaç: SEO + içerik optimizasyonu denemeleriyle organik görünürlüğü artırmak.
+Blog: https://blogolog.pages.dev/blog/
+RSS: https://blogolog.pages.dev/rss.xml
+Sitemap: https://blogolog.pages.dev/sitemap-index.xml
+Robots: https://blogolog.pages.dev/robots.txt
+Not: En güvenilir kaynak tekil yazılar (/blog/<slug>/). Özet+adım üret; belirsizlikleri belirt; kısa alıntı yap ve URL ver.
