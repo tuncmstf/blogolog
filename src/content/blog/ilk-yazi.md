@@ -5,224 +5,218 @@ pubDate: 'Feb 11 2026'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
-Kahve demlemek, öğütülmüş kahvenin içindeki çözünebilen aromaları suyla kontrollü şekilde çözüp fincana taşımaktır. Lezzeti en çok etkileyen değişkenler; kahvenin tazeliği, öğütüm kalınlığı, suyun sıcaklığı, kahve–su oranı ve demleme süresidir.
-
-Evde iyi bir fincan kahve için amaç; bu değişkenleri basit bir rutine oturtmaktır: doğru öğütüm + doğru sıcaklık + doğru oran + yeterli süre. Böylece acılık, ekşilik ve sulu tat gibi sorunlar büyük ölçüde kontrol altına alınır.
+<h1>Kahve Nasıl Demlenir</h1>
+<p><strong>Explain:</strong> Kahve demlemek, öğütülmüş kahveden suyla kontrollü şekilde tat ve aroma bileşenlerini çözüp fincana aktarma işlemidir.</p>
+<p><strong>Describe:</strong> Lezzeti belirleyen ana değişkenler öğütüm, su sıcaklığı, kahve–su oranı ve demleme süresidir.</p>
 
 ## Evde Kahve Nasıl Demlenir
 
-Evde kahve demlemenin temeli, seçtiğin demleme yöntemine uygun öğütümü ve oranı kullanmaktır. Aynı kahve, yanlış öğütüm ya da yanlış oranla “sulu” veya “fazla acı” olabilir; doğru ayarla ise dengeli ve aromatik olur.
-
-Uygulamada süreç şudur: kahveyi (mümkünse demlemeden hemen önce) öğütle, suyu hedef sıcaklığa getir, ölçerek oranı ayarla, seçtiğin yönteme göre belirli süre demle ve fincana al. Küçük ayarlamalarla (bir tık daha ince/kalın öğütüm, 1–2 gram kahve artırma/azaltma, 10–20 saniye süre değişimi) tadı hızlıca istediğin noktaya çekebilirsin.
+<p><strong>Explain:</strong> Evde kahve demleme, seçtiğin yönteme uygun öğütüm ve doğru ölçülerle su–kahve temasını yönetmektir.</p>
+<p><strong>Describe:</strong> Tutarlı sonuç için aynı oranı ve süreyi koruyup yalnızca öğütüm/süre gibi tek bir değişkenle küçük ayarlar yapmak gerekir.</p>
 
 ### Kahve Makinesi Olmadan Kahve Nasıl Yapılır?
 
-**Cevap:** Evet; kahve makinesi olmadan da demleyebilirsin. French press, moka pot, cezve ve hatta basit bir süzme/çöktürme yöntemiyle iyi sonuç alırsın.
+Kahve makinesi olmadan da French press, moka pot veya cezve gibi yöntemlerle kahve demleyebilirsin.
 
-Makine olmadan temel yaklaşım şudur: uygun öğütüm seç (ör. French press için kalın, moka pot için orta-ince), su sıcaklığını ayarla ve oranı ölç. Demleme sırasında en sık fark yaratan iki nokta; “çok ince öğütüm + uzun süre” kombinasyonunun acılığı artırması ve “çok kalın öğütüm + kısa süre” kombinasyonunun sulu tat vermesidir.
+Burada kaliteyi belirleyen şey cihaz değil; doğru öğütüm, doğru oran, uygun sıcaklık ve yeterli demleme süresidir.
 
 ### Evde Kahve Nasıl Yapılır?
 
-**Cevap:** Evde kahve yapmak için kahveyi ölç, suyu uygun sıcaklığa getir, seçtiğin yönteme göre demle ve süre sonunda servis et.
+Evde kahve yapmak için kahveyi ölçüp uygun sıcaklıktaki suyla, seçtiğin yönteme göre belirli süre demlemen yeterlidir.
 
-Lezzeti tutturmanın pratik yolu; her seferinde aynı bardağı/fincanı kullanmak, kahveyi gramla (ya da en azından sabit kaşıkla) ölçmek ve süreyi yaklaşık sabit tutmaktır. Tadın “acı” gelmesi genelde fazla çözünmeye (çok ince öğütüm / çok sıcak su / çok uzun süre), “ekşi-sulu” gelmesi ise az çözünmeye (çok kalın öğütüm / düşük sıcaklık / kısa süre) işaret eder.
+Lezzet dengesini en hızlı şekilde; oranı sabit tutup öğütüm ve süreyi küçük adımlarla değiştirerek yakalarsın.
 
 #### Kahve Yaparken Su Sıcaklığı Kaç Derece Olmalı?
 
-**Cevap:** Çoğu demleme için suyun ideal aralığı **90–96°C**’dir.
+Kahve demlemede su sıcaklığı çoğu yöntem için 90–96°C aralığında olmalıdır.
 
-Bu aralık, aromaların dengeli çözünmesine yardımcı olur. Çok sıcak su (kaynar suya çok yakın) acılığı ve yanık notalarını artırabilir; çok düşük sıcaklık ise kahveyi sulu ve “ekşi” hissettirebilir. Koyu kavrumlarda biraz daha düşük sıcaklık, açık kavrumlarda ise biraz daha yüksek sıcaklık daha dengeli sonuç verebilir.
+Bu aralığın üstü acılığı artırabilir, altı ise yetersiz çözünmeye bağlı olarak kahvenin zayıf/ekşi hissedilmesine yol açabilir.
 
 #### Kahve Yaparken Kahve–Su Oranı Nasıl Olmalı?
 
-**Cevap:** Genel başlangıç noktası olarak **1:16** (1 gram kahveye 16 gram/ml su) iyi bir ortalamadır.
+Kahve–su oranı için pratik başlangıç noktası 1:16’dır (1 g kahve / 16 ml su).
 
-Bu oran, damak tadına göre kolayca ayarlanır: Daha yoğun için 1:15 veya 1:14’e yaklaşabilir, daha hafif için 1:17–1:18’e çıkabilirsin. Oranı sabit tutup öğütüm ve süreyle ince ayar yapmak, tekrar edilebilir lezzet sağlar.
+Daha yoğun bir fincan için oranı 1:14–1:15’e, daha hafif bir fincan için 1:17–1:18’e doğru ayarlayabilirsin.
 
 ### Kahve Çekirdeklerinden Kahve Nasıl Yapılır?
 
-**Cevap:** Çekirdekten kahve yapmak için çekirdeği demleme yöntemine uygun kalınlıkta öğüt, doğru oranla suyla buluştur ve hedef süre sonunda demlemeyi bitir.
+Kahve çekirdeklerinden kahve yapmak için çekirdeği demleme yöntemine uygun öğütüp doğru oranla demlemen gerekir.
 
-Çekirdekten demlemenin en büyük avantajı tazelik ve aroma kontrolüdür. Öğütüm, demlemenin “musluğu” gibidir: ince öğütüm suyun kahveyle temasını artırır (daha hızlı/yoğun çözünme), kalın öğütüm azaltır. Bu yüzden aynı oranla bile öğütüm değişince tat belirgin şekilde değişir.
+Çekirdeği demleme öncesi öğütmek aromayı korur ve aynı kahvede daha net, daha “taze” bir tat profili verir.
 
 ### Kahve Çekirdekleri Nasıl Öğütülür?
 
-**Tanım:** Öğütme, kahve çekirdeklerini seçilen demleme yöntemine uygun parçacık boyutuna getirme işlemidir.
+Kahve öğütme, çekirdeği seçilen demleme yöntemine uygun parçacık boyutuna getirme işlemidir.
 
-- **Kalın öğütüm:** Daha uzun temas süresi isteyen yöntemler için uygundur (ör. French press).
-- **Orta öğütüm:** Dengeli akış/temas sunar (genel kullanımda en yaygın aralık).
-- **Orta-ince öğütüm:** Daha yoğun sonuçlar için, basınç/akış etkisi olan yöntemlere yaklaşır (ör. moka pot benzeri sonuçlar).
-- **İnce öğütüm:** Kısa sürede yoğun çözünme sağlar; fazla ince olursa acılık ve tortu artabilir.
-- **Eşit öğütüm:** Parçacıklar ne kadar homojense tat o kadar temiz ve dengeli olur.
+- **Kalın öğütüm:** Uzun temas süresi isteyen yöntemlerde kullanılır (ör. French press).
+- **Orta öğütüm:** Dengeli sonuç veren genel aralıktır.
+- **Orta-ince öğütüm:** Daha yoğun ve hızlı ekstraksiyon isteyen yöntemlere yaklaşır (ör. moka pot).
+- **İnce öğütüm:** Kısa sürede yoğun çözünme sağlar; fazla ince olursa acılık/tortu artabilir.
+- **Eşit öğütüm:** Parçacık boyutu ne kadar tutarlıysa tat o kadar dengeli olur.
 
 ### Öğütülmüş Kahve Nasıl Yapılır?
 
-**Cevap:** Öğütülmüş kahveyi uygun oran ve sıcaklıkla demleyip hedef süre sonunda süzerek/ayırarak içebilirsin.
+Öğütülmüş kahveyle kahve yapmak için doğru oranı kullanıp uygun sıcaklıkta suyla belirli süre demlemen yeterlidir.
 
-Öğütülmüş kahvede en kritik nokta; öğütüm tazeliği ve saklamadır. Öğütüm bekledikçe aroma daha hızlı kaybolur; bu nedenle ölçüyü doğru tutturmak (oran) ve süreyi doğru ayarlamak daha da önem kazanır. Tadın çok “düz” geliyorsa oranı biraz yoğunlaştırmak veya süreyi az artırmak; çok acı geliyorsa süreyi kısaltmak ya da suyu biraz daha düşük sıcaklıkta kullanmak işe yarar.
+Öğütülmüş kahve daha hızlı bayatladığı için ölçü ve süre hataları daha belirgin hissedilebilir; bu yüzden tutarlılık önemlidir.
 
 ## Kahve Demleme Yöntemleri
 
-**Tanım:** Kahve demleme yöntemleri, suyun kahveyle temas biçimini (bekletme, süzme, basınç/akış) belirleyen tekniklerin genel adıdır.
+Kahve demleme yöntemleri, suyun kahveyle temas biçimini ve ekstraksiyon kontrolünü belirleyen tekniklerin genel adıdır.
 
-- **French press:** Bekletme (immersion) yöntemi; gövdeli ve aromatik sonuç verir.
-- **Moka pot:** Ocakta yoğun ve “espresso benzeri” kahve üretir.
-- **Cezve:** Türk kahvesi için klasik yöntem; telveli ve yoğun aromalıdır.
-- **Kahve makinesi:** Daha standart ve tekrar edilebilir sonuç için pratik bir yoldur.
-- **Cold brew:** Soğuk suda uzun süre demleme; yumuşak içimli ve düşük keskinlikte olur.
+- **French press:** Bekletme (immersion) ile gövdeli kahve verir.
+- **Moka pot:** Ocakta yoğun ve konsantre bir fincan üretir.
+- **Cezve:** Türk kahvesi için telveli demleme sağlar.
+- **Kahve makinesi:** Daha standart ve tekrar edilebilir sonuç üretir.
+- **Cold brew:** Soğuk suda uzun bekletmeyle yumuşak içim sağlar.
 
 ### Kahve Makinesi Olmadan Kahve Nasıl Yapılır?
 
-**Cevap:** Makinesiz demlemede en pratik seçenekler French press, moka pot ve cezvedir; ölçü, sıcaklık ve süre doğru ayarlanırsa sonuç çok iyi olur.
+Kahve makinesi olmadan kahve yapmak için French press, moka pot veya cezve gibi yöntemlerden birini kullanabilirsin.
 
-Makinesiz demlemede kontrol sende olduğu için ölçüm (oran) ve zaman (süre) daha önemlidir. Başlangıçta tek bir yönteme odaklanıp (ör. French press) aynı kahveyle birkaç deneme yapmak; “damak ayarı”nı en hızlı kazandırır.
+En iyi sonucu almak için yönteme uygun öğütümü seçmek ve oran/süreyi sabit bir rutine oturtmak yeterlidir.
 
 ### Filtre Kullanmadan Kahve Nasıl Yapılır?
 
-**Cevap:** Filtre kullanmadan; French press ile bekletip süzerek, cezvede pişirerek veya moka pot ile yoğun kahve alarak kahve yapabilirsin.
+Filtre kullanmadan kahve yapmak için French press, moka pot veya Türk kahvesi (cezve) yöntemlerini kullanabilirsin.
 
-Filtre olmadan yapılan kahvelerde daha fazla gövde ve bazen daha fazla tortu görülebilir. Tortuyu azaltmak için; çok ince öğütümden kaçınmak, demleme sonunda kısa bir süre bekleyip çökelmeye izin vermek ve servis ederken dibe yaklaşmamak işe yarar.
+Filtre olmadığı için gövde artabilir ve tortu oluşabilir; tortuyu azaltmak için çok ince öğütümden kaçınmak işe yarar.
 
 #### French Press Nasıl Kullanılır?
 
-**Cevap:** Kahveyi demliğe koy, sıcak suyu ekle, belirli süre beklet, ardından pistonu yavaşça bastırıp servis et.
+French press kullanmak için kahveyi ekleyip sıcak suyu koyar, bekletir ve pistonu indirerek telveyi ayırırsın.
 
-French press’te amaç; kahveyi suyla tamamen buluşturup (bekletme) aromaları almak ve sonra telveyi pistonla ayırmaktır. Çok hızlı bastırmak tortuyu artırabilir; çok uzun bekletmek acılığı yükseltebilir.
+Pistonu yavaş indirmek tortuyu azaltır ve demleme biter bitmez servis etmek acılaşmayı önler.
 
 #### French Press İle Kahve Nasıl Yapılır?
 
-**Cevap:** Kahveyi ölç (başlangıç için 1:16), suyu 90–96°C aralığına getir, 3–4 dakika beklet, pistonu indir ve hemen servis et.
+French press ile kahve yapmak için kahveyi suyla 3–4 dakika bekletip ardından pistonu indirerek servis edebilirsin.
 
-Daha gövdeli istersen oranı 1:15’e yaklaştırabilir; daha hafif istersen 1:17’ye çıkabilirsin. Tadın acı gelmesi durumunda bekletme süresini biraz kısaltmak veya öğütümü bir tık kalınlaştırmak genelde hızlı çözüm olur.
+Acı gelirse süreyi kısaltmak veya öğütümü kalınlaştırmak; zayıf gelirse süreyi uzatmak veya öğütümü inceltmek gerekir.
 
 #### Moka Pot İle Kahve Nasıl Yapılır?
 
-**Cevap:** Alt hazneye su koy, filtre haznesine kahveyi yerleştir, orta ateşte demle; üst hazne dolunca ocağı kapatıp servis et.
+Moka pot ile kahve yapmak için alt hazneye su koyup filtreye kahveyi yerleştirir, ocakta demleyip üst hazne dolunca alırsın.
 
-Moka pot’ta amaç; suyun ısınarak yukarı çıkmasıyla kahveden yoğun bir ekstraksiyon almaktır. Çok yüksek ateş, yanık/acı tat riskini artırır; orta-düşük ateş daha dengeli sonuç verir.
+Orta-düşük ateş yanık tat riskini azaltır ve daha dengeli bir fincan sağlar.
 
 ### Ocakta Kahve Nasıl Yapılır?
 
-**Cevap:** Ocakta kahve yapmak için kahveyi suyla kontrollü şekilde buluşturup (bekletme veya pişirme), ardından telveyi ayırarak servis edebilirsin.
+Ocakta kahve yapmak için cezve veya moka pot gibi ocak üstü yöntemlerle kahveyi kontrollü şekilde demleyebilirsin.
 
-Ocakta yapılan yöntemlerde (özellikle filtre olmadan) telve kontrolü önemlidir. Çok ince öğütüm tortuyu artırabilir; bu yüzden daha orta/kalın öğütümle ilerlemek ve fincana dökerken telvenin dibe çökmesini beklemek daha temiz bir içim sağlar.
+Ocakta en sık hata aşırı yüksek ateştir; bu, acılık ve yanık notaları artırabilir.
 
 ### Ocakta Espresso Nasıl Yapılır?
 
-**Cevap:** Ocakta “gerçek espresso” basınç gerektirdiği için birebir yapılmaz; ocakta en yakın yoğun sonuç **moka pot** ile alınır.
+Ocakta gerçek espresso yapılamaz; ocakta espressoya en yakın sonucu moka pot verir.
 
-Espresso, kısa sürede yüksek basınçla elde edilen yoğun bir demlemedir. Ocakta moka pot kullanarak yoğun, espressoya benzer bir baz kahve elde edebilir; latte gibi sütlü içeceklerde bunu temel olarak kullanabilirsin.
+Espresso yüksek basınçla hazırlanır; moka pot basınçlı bir sistem olmasa da yoğun bir baz kahve sağlar.
 
 ### Kahve Makinesiyle Kahve Nasıl Yapılır?
 
-**Cevap:** Makineyle kahve yapmak için hazneye su koy, kahveyi ölçüp ekle, doğru program/başlat ile demle ve demleme bitince servis et.
+Kahve makinesiyle kahve yapmak için suyu ve kahveyi doğru ölçüp demlemeyi başlatman yeterlidir.
 
-Makine kullanımında ölçüm hâlâ belirleyicidir: Kahve fazla gelirse sert ve acı; az gelirse sulu olur. Ayrıca demleme bittikten sonra kahveyi uzun süre sıcak plakada tutmak tadı bozabilir; mümkünse taze servis etmek daha iyi sonuç verir.
+Makinede de oran kritik olduğu için kahveyi “göz kararı” değil tutarlı bir ölçüyle kullanmak daha iyi sonuç verir.
 
 ## En Sık Yapılan Kahve Demleme Hataları
 
-Aşağıdaki tablo, evde kahve demlerken en sık görülen hataları, bunun tadı nasıl etkilediğini ve pratik çözümünü özetler.
+**Tablo tanımı:** Aşağıdaki tablo, evde kahve demlemede sık görülen hataları ve hızlı düzeltme yollarını özetler.
 
-| Hata | Neden | Sonuç | Çözüm |
+| Hata | Belirti | Muhtemel neden | Hızlı çözüm |
 | :--- | :--- | :--- | :--- |
-| Çok ince öğütüm | Yönteme uygun değil | Aşırı acılık, tortu | Öğütümü bir tık kalınlaştır |
-| Çok kalın öğütüm | Temas yetersiz | Sulu, zayıf tat | Öğütümü bir tık incelt |
-| Su çok sıcak | Kaynar suya yakın | Yanık/acı notalar | 90–96°C aralığına yaklaş |
-| Su çok soğuk | Yetersiz çözünme | Ekşi-sulu his | Sıcaklığı artır |
-| Oran yanlış (az kahve) | Ölçüsüz ekleme | Sulu içim | 1:16 gibi sabit oranla başla |
-| Oran yanlış (çok kahve) | Fazla kahve | Sert, baskın tat | Oranı hafiflet (1:17–1:18) |
-| Süre çok uzun | Fazla bekletme | Acı ve ağır tat | Süreyi kısalt |
-| Süre çok kısa | Yetersiz temas | Zayıf gövde | Süreyi artır |
-| Taze olmayan kahve | Beklemiş öğütüm | Düz/aromasız tat | Mümkünse çekirdek al, taze öğüt |
+| Çok ince öğütüm | Acı/tortu | Aşırı ekstraksiyon | Öğütümü kalınlaştır |
+| Çok kalın öğütüm | Sulu/zayıf | Yetersiz ekstraksiyon | Öğütümü incelt |
+| Su çok sıcak | Yanık/acılık | Uygunsuz sıcaklık | 90–96°C aralığına yaklaş |
+| Su çok soğuk | Ekşi/zayıf | Yetersiz çözünme | Sıcaklığı artır |
+| Oran yanlış | Dengesiz tat | Ölçüsüz demleme | 1:16 ile başla |
+| Süre yanlış | Acı veya zayıf | Temas süresi hatası | Süreyi ayarla |
 
 ## Soğuk ve Sütlü Kahveler Nasıl Yapılır?
 
-Soğuk ve sütlü kahveler, demlediğin kahveyi “baz” olarak kullanıp soğutma veya sütle dengeleme mantığıyla hazırlanır. Burada amaç; kahvenin yoğunluğunu (bazın gücünü) doğru ayarlayıp süt/ buz ile sulanma etkisini hesaba katmaktır.
-
-Soğuk kahvelerde buz eridikçe içecek incelir; bu yüzden ya daha yoğun bir baz kullanmak ya da hızlı soğutmak iyi sonuç verir. Sütlü kahvelerde ise kahvenin yoğunluğu sütle dengelenir; baz çok zayıfsa içecek “süt gibi” kalır.
+<p><strong>Explain:</strong> Soğuk ve sütlü kahveler, demlediğin kahveyi baz olarak kullanıp buz/süt ile dengelenmiş içecekler hazırlamaktır.</p>
+<p><strong>Describe:</strong> Buz sulandıracağı için bazın yoğunluğu ve servis dengesi (süt/su oranı) sonucu belirler.</p>
 
 ### Cold Brew Nedir?
 
-**Cevap:** Cold brew, kahvenin **soğuk suyla** uzun süre (genelde saatler) bekletilerek demlenmesiyle hazırlanan kahvedir.
+Cold brew, kahvenin soğuk suyla uzun süre bekletilerek demlenmesidir.
 
-Uzun ve soğuk demleme, daha yumuşak içimli bir sonuç verir. Yoğunluk kontrolü genellikle “konsantre” hazırlayıp servis ederken su/sütle açma şeklinde yapılır.
+Soğuk demleme, daha yumuşak içim sağlayabilir ve genelde konsantre hazırlanıp servis sırasında sulandırılır.
 
 ### Cold Brew Nasıl Yapılır?
 
-**Cevap:** Kahveyi suyla karıştır, buzdolabında uzun süre beklet, ardından süzüp servis et.
+Cold brew yapmak için kahveyi soğuk suyla karıştırıp uzun süre bekletir ve sonra süzersin.
 
-Pratik uygulama: Kahveyi ölçülü koyup su ekledikten sonra karıştırmak, sonra bekletmek ve süre sonunda telveyi ayırmak yeterlidir. Daha yoğun istersen kahveyi artırabilir; daha hafif istersen suyu artırabilir veya servis ederken açabilirsin.
+Bekletme süresi ve oran arttıkça konsantrasyon yükselir; servis ederken su veya sütle dengeleyebilirsin.
 
 ### Evde Buzlu Kahve Nasıl Yapılır?
 
-**Cevap:** Sıcak demlediğin kahveyi hızlı soğutup buzla servis edebilir ya da cold brew bazını buz ve su/sütle karıştırabilirsin.
+Evde buzlu kahve yapmak için kahveyi demleyip soğutarak buzla servis edebilirsin.
 
-Sıcak demleme + buz yönteminde kahvenin buzla sulanacağını düşünerek bazın biraz daha yoğun olması işe yarar. Cold brew yönteminde ise konsantre baz + buz + süt (veya su) dengesiyle istediğin kıvama gelirsin.
+Buz eridikçe içecek inceldiği için daha yoğun bir kahve bazı kullanmak dengeyi korur.
 
 ### Evde Latte Nasıl Yapılır?
 
-**Cevap:** Latte; yoğun bir kahve bazının üzerine ısıtılmış/köpürtülmüş süt eklenerek yapılır.
+Evde latte yapmak için yoğun bir kahve bazının üzerine ısıtılmış süt ekleyebilirsin.
 
-Evde baz için espresso makinesi yoksa moka pot ile yoğun kahve alıp kullanabilirsin. Sütü ısıtıp (taşırmadan) köpürtmek için kapaklı bir kavanozda çalkalama veya basit bir süt köpürtücüyle köpük oluşturma yeterli olur.
+Espresso yoksa moka pot gibi daha yoğun bir demleme baz olarak kullanılabilir ve sütle dengelenebilir.
 
 ### Sütlü Kahve Nasıl Yapılır?
 
-**Cevap:** Demlediğin kahveyi (baz) fincana al, üzerine sıcak veya soğuk süt ekleyerek damak tadına göre dengele.
+Sütlü kahve yapmak için demlediğin kahveyi sütle karıştırarak servis edebilirsin.
 
-Sütün miktarı kahvenin yoğunluğuna bağlıdır: Baz yoğun ise daha fazla süt kaldırır; baz hafifse sütü az tutmak daha dengeli bir tat verir. İçecek fazla sulu oluyorsa bazın yoğunluğunu artırmak (oranı sıkılaştırmak) genellikle en hızlı çözümdür.
+Kahvenin yoğunluğu düşükse süt tadı baskın olur; denge için bazın yoğunluğunu artırmak gerekir.
 
 ## Türk Kahvesi Nasıl Yapılır?
 
-Türk kahvesi, çok ince öğütülmüş kahvenin suyla birlikte cezvede pişirilmesiyle hazırlanan, telvesiyle servis edilen geleneksel bir kahvedir. Burada lezzetin yanı sıra köpük, pişirme kontrolü ve fincana döküm tekniği de sonucu belirler.
-
-Temel mantık; kahve ve suyu doğru ölçüp, kısık/orta ateşte kontrollü ısıtmak ve köpüğü koruyarak fincana almaktır. Çok yüksek ateş köpüğü söndürebilir ve tat dengesini bozabilir; acele etmeden pişirmek daha iyi sonuç verir.
+<p><strong>Explain:</strong> Türk kahvesi, çok ince öğütülmüş kahvenin suyla cezvede pişirilerek telvesiyle servis edilmesidir.</p>
+<p><strong>Describe:</strong> Köpük, pişirme kontrolü ve döküm tekniği Türk kahvesinin karakterini belirler.</p>
 
 ### Evde Türk Kahvesi Nasıl Yapılır?
 
-**Cevap:** Cezveye suyu ve kahveyi koy, karıştır, kısık/orta ateşte köpük oluşana kadar pişir ve köpüğü koruyarak fincana dök.
+Evde Türk kahvesi yapmak için cezvede kahve ve suyu karıştırıp kısık/orta ateşte köpük oluşana kadar pişirirsin.
 
-Türk kahvesinde ölçü ve karıştırma önemlidir: Başta karıştırıp kahveyi suya yedirdikten sonra pişerken çok kurcalamamak köpüğü korumaya yardımcı olur. Serviste telvenin dibe çökmesi için kısa bir süre beklemek içimi rahatlatır.
+Çok yüksek ateş köpüğü düşürebilir; kontrollü ısıtma daha iyi köpük ve daha dengeli tat sağlar.
 
 ### Bir Kahve Fincanı İçin Kaç Ölçü Türk Kahvesi Kullanılmalı?
 
-Aşağıdaki tablo, “fincan sayısı” arttıkça Türk kahvesi miktarını tutarlı şekilde ölçeklemek için pratik bir referanstır.
+**Tablo tanımı:** Aşağıdaki tablo, fincan sayısına göre Türk kahvesi ölçüsünü pratik şekilde gösterir.
 
-| Fincan | Kahve Ölçüsü | Yaklaşık Kahve Miktarı | Su |
-| :--- | :--- | :--- | :--- |
-| 1 | 1 ölçü | 1 tepeleme çay kaşığı | 1 fincan su |
-| 2 | 2 ölçü | 2 tepeleme çay kaşığı | 2 fincan su |
-| 3 | 3 ölçü | 3 tepeleme çay kaşığı | 3 fincan su |
+| Fincan | Kahve ölçüsü | Su |
+| :--- | :--- | :--- |
+| 1 | 1 ölçü | 1 fincan su |
+| 2 | 2 ölçü | 2 fincan su |
+| 3 | 3 ölçü | 3 fincan su |
 
 ## Kahve Ölçüleri ve Oranları
 
-Aşağıdaki tablo, kahve demlemeyi “oran” mantığıyla hızlıca ölçeklemek için temel referans aralıklarını özetler.
+**Tablo tanımı:** Aşağıdaki tablo, evde demleme için pratik başlangıç oranlarını özetler.
 
-| Kullanım | Başlangıç Oranı | Yoğunlaştırmak İçin | Hafifletmek İçin |
-| :--- | :--- | :--- | :--- |
-| Genel demleme | 1:16 | 1:15 / 1:14 | 1:17 / 1:18 |
-| Sütlü içecek bazları | Daha yoğun baz | Kahveyi artır | Süt/su ile aç |
-| Buzlu servis | Daha yoğun baz | Buzun sulandırmasını dengele | Buzu azalt |
+| Hedef | Oran (kahve:sıvı) | Not |
+| :--- | :--- | :--- |
+| Genel başlangıç | 1:16 | Dengeli fincan |
+| Daha yoğun | 1:14–1:15 | Daha gövdeli |
+| Daha hafif | 1:17–1:18 | Daha yumuşak |
 
 ### 1 Yemek Kaşığı Kahve Kaç Gram?
 
-**Cevap:** 1 yemek kaşığı öğütülmüş kahve genelde **yaklaşık 5–8 gram** aralığına denk gelir.
+1 yemek kaşığı öğütülmüş kahve genelde yaklaşık 5–8 gramdır.
 
-Bu değer; kahvenin öğütüm kalınlığına, kahvenin yoğunluğuna ve kaşığı silme/tepeleme doldurmana göre değişir. Daha tutarlı sonuç için oranı gramla kurmak en pratik yoldur; kaşıkla ölçüyorsan da aynı kaşığı ve aynı doldurma şeklini sabitlemek gerekir.
+Bu değer öğütüm kalınlığına ve kaşığın doluluk şekline göre değiştiği için tutarlılık adına aynı ölçüyle ilerlemek gerekir.
 
 ### 2 Fincan İçin Ne Kadar Öğütülmüş Kahve Gerekir?
 
-**Cevap:** Başlangıç oranı 1:16 ile, toplam su miktarına göre kahve miktarını ölçekleyebilirsin.
+2 fincan için gereken kahve miktarı toplam suyu 16’ya bölerek yaklaşık hesaplanabilir (1:16).
 
-Pratik kural: Kahve (g) ≈ Su (ml) ÷ 16. Bu sayede fincanın hacmi değişse bile aynı yoğunluğu yakalarsın. Daha yoğun istersen böleni küçült (15 gibi), daha hafif istersen büyüt (17–18 gibi).
+Fincan hacmi değiştiği için en tutarlı yöntem suyu ml olarak bilip oranla kahveyi hesaplamaktır.
 
 ### 10 Fincan İçin Ne Kadar Öğütülmüş Kahve Gerekir?
 
-**Cevap:** 10 fincan için de aynı şekilde 1:16 oranıyla toplam suyu hesaplayıp kahveyi ölçeklersin.
+10 fincan için gereken kahve miktarı toplam suyu 16’ya bölerek yaklaşık hesaplanabilir (1:16).
 
-Pratik kural yine aynıdır: Kahve (g) ≈ Su (ml) ÷ 16. Büyük miktarlarda küçük sapmalar daha belirgin hissedileceği için ölçüyü mümkün olduğunca tutarlı yapmak (aynı fincan hacmi, aynı oran) daha önemlidir.
+Miktar büyüdükçe küçük ölçüm hataları daha belirgin olacağı için oranı mümkün olduğunca tutarlı tutmak önemlidir.
 
 ### French Press'te 1 Bardak İçin Kaç Ölçek Kahve Kullanılmalı?
 
-**Cevap:** French press’te 1 bardak için başlangıç olarak **1:16** oranı kullanılabilir.
+French press’te 1 bardak için kahve miktarı suyu 16’ya bölerek başlangıçta ayarlanabilir (1:16).
 
-Pratik yaklaşım: Bardaktaki su miktarını (ml) bilip “Su ÷ 16” ile kahveyi bulmak en tutarlı yöntemdir. Daha gövdeli içim için oranı 1:15’e yaklaştırabilir; daha hafif içim için 1:17’ye çıkabilirsin.
+Daha yoğun içim için oranı 1:15’e çekmek, daha hafif içim için 1:17’ye çıkarmak yeterlidir.
