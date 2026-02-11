@@ -5,20 +5,13 @@ pubDate: 'Feb 11 2026'
 heroImage: '../../assets/kahve-nasil-yapilir.avif'
 ---
 
-
 Kahve demlemek, öğütülmüş kahveden suyla kontrollü şekilde tat ve aroma bileşenlerini çözüp fincana aktarma işlemidir.
 Lezzeti belirleyen ana değişkenler öğütüm, su sıcaklığı, kahve–su oranı ve demleme süresidir.
 
-## Evde Kahve Nasıl Demlenir
+## Kahve Nasıl Demlenir?
 
-Evde kahve demleme, seçtiğin yönteme uygun öğütüm ve doğru ölçülerle su–kahve temasını yönetmektir.
+Kahve demleme, seçtiğin yönteme uygun öğütüm ve doğru ölçülerle su–kahve temasını yönetmektir.
 Tutarlı sonuç için aynı oranı ve süreyi koruyup yalnızca öğütüm/süre gibi tek bir değişkenle küçük ayarlar yapmak gerekir.
-
-### Kahve Makinesi Olmadan Kahve Nasıl Yapılır?
-
-Kahve makinesi olmadan da French press, moka pot veya cezve gibi yöntemlerle kahve demleyebilirsin.
-
-Burada kaliteyi belirleyen şey cihaz değil; doğru öğütüm, doğru oran, uygun sıcaklık ve yeterli demleme süresidir.
 
 ### Evde Kahve Nasıl Yapılır?
 
