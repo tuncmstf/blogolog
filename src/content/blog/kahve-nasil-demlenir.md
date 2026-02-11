@@ -6,13 +6,13 @@ heroImage: '../../assets/kahve-nasil-yapilir.avif'
 ---
 
 
-**Explain:** Kahve demlemek, öğütülmüş kahveden suyla kontrollü şekilde tat ve aroma bileşenlerini çözüp fincana aktarma işlemidir.
-**Describe:** Lezzeti belirleyen ana değişkenler öğütüm, su sıcaklığı, kahve–su oranı ve demleme süresidir.
+Kahve demlemek, öğütülmüş kahveden suyla kontrollü şekilde tat ve aroma bileşenlerini çözüp fincana aktarma işlemidir.
+Lezzeti belirleyen ana değişkenler öğütüm, su sıcaklığı, kahve–su oranı ve demleme süresidir.
 
 ## Evde Kahve Nasıl Demlenir
 
-**Explain:** Evde kahve demleme, seçtiğin yönteme uygun öğütüm ve doğru ölçülerle su–kahve temasını yönetmektir.
-**Describe:** Tutarlı sonuç için aynı oranı ve süreyi koruyup yalnızca öğütüm/süre gibi tek bir değişkenle küçük ayarlar yapmak gerekir.
+Evde kahve demleme, seçtiğin yönteme uygun öğütüm ve doğru ölçülerle su–kahve temasını yönetmektir.
+Tutarlı sonuç için aynı oranı ve süreyi koruyup yalnızca öğütüm/süre gibi tek bir değişkenle küçük ayarlar yapmak gerekir.
 
 ### Kahve Makinesi Olmadan Kahve Nasıl Yapılır?
 
@@ -133,8 +133,8 @@ Makinede de oran kritik olduğu için kahveyi “göz kararı” değil tutarlı
 
 ## Soğuk ve Sütlü Kahveler Nasıl Yapılır?
 
-**Explain:** Soğuk ve sütlü kahveler, demlediğin kahveyi baz olarak kullanıp buz/süt ile dengelenmiş içecekler hazırlamaktır.
-**Describe:** Buz sulandıracağı için bazın yoğunluğu ve servis dengesi (süt/su oranı) sonucu belirler.
+Soğuk ve sütlü kahveler, demlediğin kahveyi baz olarak kullanıp buz/süt ile dengelenmiş içecekler hazırlamaktır.
+Buz sulandıracağı için bazın yoğunluğu ve servis dengesi (süt/su oranı) sonucu belirler.
 
 ### Cold Brew Nedir?
 
@@ -168,8 +168,8 @@ Kahvenin yoğunluğu düşükse süt tadı baskın olur; denge için bazın yoğ
 
 ## Türk Kahvesi Nasıl Yapılır?
 
-**Explain:** Türk kahvesi, çok ince öğütülmüş kahvenin suyla cezvede pişirilerek telvesiyle servis edilmesidir.
-**Describe:** Köpük, pişirme kontrolü ve döküm tekniği Türk kahvesinin karakterini belirler.
+Türk kahvesi, çok ince öğütülmüş kahvenin suyla cezvede pişirilerek telvesiyle servis edilmesidir.
+Köpük, pişirme kontrolü ve döküm tekniği Türk kahvesinin karakterini belirler.
 
 ### Evde Türk Kahvesi Nasıl Yapılır?
 
