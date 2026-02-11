@@ -1,18 +1,18 @@
 ---
 title: 'Kahve Nasıl Demlenir?'
-description: 'Evde kahve demlemenin incelikleri: Doğru öğütüm, su sıcaklığı, oranlar ve yöntemler.'
+description: 'Kahve demleme rehberi: Evde kahve yapımı için ideal su sıcaklığı, kahve–su oranı, öğütüm ayarı ve demleme süresi; French press, moka pot, Türk kahvesi ve buzlu kahve.'
 pubDate: 'Feb 11 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/kahve-nasil-yapilir.avif'
 ---
 
-<h1>Kahve Nasıl Demlenir</h1>
-<p><strong>Explain:</strong> Kahve demlemek, öğütülmüş kahveden suyla kontrollü şekilde tat ve aroma bileşenlerini çözüp fincana aktarma işlemidir.</p>
-<p><strong>Describe:</strong> Lezzeti belirleyen ana değişkenler öğütüm, su sıcaklığı, kahve–su oranı ve demleme süresidir.</p>
+
+**Explain:** Kahve demlemek, öğütülmüş kahveden suyla kontrollü şekilde tat ve aroma bileşenlerini çözüp fincana aktarma işlemidir.
+**Describe:** Lezzeti belirleyen ana değişkenler öğütüm, su sıcaklığı, kahve–su oranı ve demleme süresidir.
 
 ## Evde Kahve Nasıl Demlenir
 
-<p><strong>Explain:</strong> Evde kahve demleme, seçtiğin yönteme uygun öğütüm ve doğru ölçülerle su–kahve temasını yönetmektir.</p>
-<p><strong>Describe:</strong> Tutarlı sonuç için aynı oranı ve süreyi koruyup yalnızca öğütüm/süre gibi tek bir değişkenle küçük ayarlar yapmak gerekir.</p>
+**Explain:** Evde kahve demleme, seçtiğin yönteme uygun öğütüm ve doğru ölçülerle su–kahve temasını yönetmektir.
+**Describe:** Tutarlı sonuç için aynı oranı ve süreyi koruyup yalnızca öğütüm/süre gibi tek bir değişkenle küçük ayarlar yapmak gerekir.
 
 ### Kahve Makinesi Olmadan Kahve Nasıl Yapılır?
 
@@ -133,8 +133,8 @@ Makinede de oran kritik olduğu için kahveyi “göz kararı” değil tutarlı
 
 ## Soğuk ve Sütlü Kahveler Nasıl Yapılır?
 
-<p><strong>Explain:</strong> Soğuk ve sütlü kahveler, demlediğin kahveyi baz olarak kullanıp buz/süt ile dengelenmiş içecekler hazırlamaktır.</p>
-<p><strong>Describe:</strong> Buz sulandıracağı için bazın yoğunluğu ve servis dengesi (süt/su oranı) sonucu belirler.</p>
+**Explain:** Soğuk ve sütlü kahveler, demlediğin kahveyi baz olarak kullanıp buz/süt ile dengelenmiş içecekler hazırlamaktır.
+**Describe:** Buz sulandıracağı için bazın yoğunluğu ve servis dengesi (süt/su oranı) sonucu belirler.
 
 ### Cold Brew Nedir?
 
@@ -168,8 +168,8 @@ Kahvenin yoğunluğu düşükse süt tadı baskın olur; denge için bazın yoğ
 
 ## Türk Kahvesi Nasıl Yapılır?
 
-<p><strong>Explain:</strong> Türk kahvesi, çok ince öğütülmüş kahvenin suyla cezvede pişirilerek telvesiyle servis edilmesidir.</p>
-<p><strong>Describe:</strong> Köpük, pişirme kontrolü ve döküm tekniği Türk kahvesinin karakterini belirler.</p>
+**Explain:** Türk kahvesi, çok ince öğütülmüş kahvenin suyla cezvede pişirilerek telvesiyle servis edilmesidir.
+**Describe:** Köpük, pişirme kontrolü ve döküm tekniği Türk kahvesinin karakterini belirler.
 
 ### Evde Türk Kahvesi Nasıl Yapılır?
 
