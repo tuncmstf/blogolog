@@ -8,4 +8,5 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
 	site: 'https://blogolog.pages.dev',
 	integrations: [mdx(), sitemap()],
+	trailingSlash: 'never',
 });
