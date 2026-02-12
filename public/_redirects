@@ -1,2 +1,16 @@
+# Force HTTPS
+http://* https://:splat 301!
+
+# Redirect pages.dev to Custom Domain
+https://blogolog.pages.dev/* https://blogolog.com.tr/:splat 301!
+
+# WWW to Non-WWW
+https://www.blogolog.com.tr/* https://blogolog.com.tr/:splat 301!
+
+# Remove Trailing Slash (exclude static assets)
+# This rule matches explicit trailing slashes on non-asset paths
+/*/ /:splat 301! 
+
+# Custom Redirects
 /blog/kahve-nasil-demlenir /blog/kahve-nasil-yapilir 301
 /blog/kahve-nasil-demlenir/ /blog/kahve-nasil-yapilir 301

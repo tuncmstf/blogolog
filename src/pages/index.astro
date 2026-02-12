@@ -15,7 +15,7 @@ const posts = (await getCollection('blog'))
 <!doctype html>
 <html lang="tr">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title="Blogolog | Merak Edilen Konularda Pratik ve Anlaşılır İçerikler" description="Merak ettiğin konularda anlaşılır, pratik ve güncel içerikler. Blogolog, SEO, içerik üretimi ve teknoloji dünyasından notlar." />
 		<style>
 			main {
 				max-width: 960px;
@@ -213,5 +213,20 @@ const posts = (await getCollection('blog'))
 			</section>
 		</main>
 		<Footer />
+		
+		<script type="application/ld+json" set:html={JSON.stringify({
+			'@context': 'https://schema.org',
+			'@type': 'WebSite',
+			'name': 'Blogolog',
+			'url': import.meta.env.SITE,
+		})} />
+
+		<script type="application/ld+json" set:html={JSON.stringify({
+			'@context': 'https://schema.org',
+			'@type': 'Organization',
+			'name': 'Blogolog',
+			'url': import.meta.env.SITE,
+			'logo': `${import.meta.env.SITE}/blogolog-logo.webp`,
+		})} />
 	</body>
 </html>

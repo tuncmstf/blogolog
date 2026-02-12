@@ -6,7 +6,9 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://blogolog.pages.dev',
-	integrations: [mdx(), sitemap()],
+	site: process.env.SITE || 'https://blogolog.pages.dev',
+	integrations: [mdx(), sitemap({
+		filter: (page) => page !== 'https://blogolog.com.tr/google3cacbdbb5cbfdfb4.html' && !page.includes('/drafts/'),
+	})],
 	trailingSlash: 'never',
 });

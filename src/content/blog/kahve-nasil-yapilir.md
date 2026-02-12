@@ -3,6 +3,7 @@ title: 'Kahve Nasıl Yapılır?'
 description: 'Kahve yapma rehberi: Evde kahve yapımı için ideal su sıcaklığı, kahve–su oranı, öğütüm ayarı ve demleme süresi; French press, moka pot, Türk kahvesi ve buzlu kahve.'
 pubDate: 'Feb 11 2026'
 heroImage: '../../assets/kahve-nasil-yapilir.avif'
+tags: ['kahve', 'rehber']
 ---
 
 Kahve yapmak, öğütülmüş kahveden suyla kontrollü şekilde tat ve aroma bileşenlerini çözüp fincana aktırma işlemidir.
