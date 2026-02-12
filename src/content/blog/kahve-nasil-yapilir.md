@@ -1,14 +1,14 @@
 ---
-title: 'Kahve Nasıl Demlenir?'
-description: 'Kahve demleme rehberi: Evde kahve yapımı için ideal su sıcaklığı, kahve–su oranı, öğütüm ayarı ve demleme süresi; French press, moka pot, Türk kahvesi ve buzlu kahve.'
+title: 'Kahve Nasıl Yapılır?'
+description: 'Kahve yapma rehberi: Evde kahve yapımı için ideal su sıcaklığı, kahve–su oranı, öğütüm ayarı ve demleme süresi; French press, moka pot, Türk kahvesi ve buzlu kahve.'
 pubDate: 'Feb 11 2026'
 heroImage: '../../assets/kahve-nasil-yapilir.avif'
 ---
 
-Kahve demlemek, öğütülmüş kahveden suyla kontrollü şekilde tat ve aroma bileşenlerini çözüp fincana aktarma işlemidir.
+Kahve yapmak, öğütülmüş kahveden suyla kontrollü şekilde tat ve aroma bileşenlerini çözüp fincana aktırma işlemidir.
 Lezzeti belirleyen ana değişkenler öğütüm, su sıcaklığı, kahve–su oranı ve demleme süresidir.
 
-## Kahve Nasıl Demlenir?
+## Kahve Demlemenin Temelleri
 
 Kahve demleme, seçtiğin yönteme uygun öğütüm ve doğru ölçülerle su–kahve temasını yönetmektir.
 Tutarlı sonuç için aynı oranı ve süreyi koruyup yalnızca öğütüm/süre gibi tek bir değişkenle küçük ayarlar yapmak gerekir.
