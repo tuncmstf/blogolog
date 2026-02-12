@@ -7,7 +7,9 @@ import HeaderLink from './HeaderLink.astro';
 
 <header>
 	<nav>
-		<h2><a href="/"><Image src={logoImage} alt={SITE_TITLE} title={SITE_TITLE} height={48} widths={[96, 192]} style="width: auto; height: 48px; vertical-align: middle;" /></a></h2>
+		<a href="/" class="logo" aria-label="Blogolog Ana Sayfa">
+			<Image src={logoImage} alt={SITE_TITLE} title={SITE_TITLE} height={48} widths={[96, 192]} style="width: auto; height: 48px; vertical-align: middle;" />
+		</a>
 		<div class="internal-links">
 			<HeaderLink href="/">Ana Sayfa</HeaderLink>
 			<HeaderLink href="/blog">Blog</HeaderLink>
@@ -23,14 +25,16 @@ import HeaderLink from './HeaderLink.astro';
 		background: white;
 		box-shadow: 0 2px 8px rgba(var(--black), 5%);
 	}
-	h2 {
+	.logo {
 		margin: 0;
 		font-size: 1em;
 		justify-self: start;
+		text-decoration: none;
+		display: flex;
+		align-items: center;
 	}
 
-	h2 a,
-	h2 a.active {
+	.logo:hover {
 		text-decoration: none;
 	}
 	nav {

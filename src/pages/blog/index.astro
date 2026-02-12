@@ -139,7 +139,7 @@ const allTags = [...new Set(posts.flatMap(post => post.data.tags || []))].sort()
 				margin: 0;
 				color: rgb(var(--gray));
 			}
-			ul li a:hover h4,
+			ul li a:hover h3,
 			ul li a:hover .date {
 				color: rgb(var(--accent));
 			}
@@ -199,27 +199,30 @@ const allTags = [...new Set(posts.flatMap(post => post.data.tags || []))].sort()
 					</div>
 				)}
 
-				<ul id="posts-list">
-					{
-						posts.map((post) => (
-							<li 
-								data-title={post.data.title.toLowerCase()}
-								data-description={(post.data.description || '').toLowerCase()}
-								data-tags={(post.data.tags || []).join(',')}
-							>
-								<a href={`/blog/${post.id}/`}>
-									{post.data.heroImage && (
-										<Image width={720} height={360} src={post.data.heroImage} alt="" />
-									)}
-									<h4 class="title">{post.data.title}</h4>
-									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
-								</a>
-							</li>
-						))
-					}
-				</ul>
+				<section aria-labelledby="posts-heading">
+					<h2 id="posts-heading" class="sr-only">Tüm Yazılar</h2>
+					<ul id="posts-list">
+						{
+							posts.map((post) => (
+								<li 
+									data-title={post.data.title.toLowerCase()}
+									data-description={(post.data.description || '').toLowerCase()}
+									data-tags={(post.data.tags || []).join(',')}
+								>
+									<a href={`/blog/${post.id}/`}>
+										{post.data.heroImage && (
+											<Image width={720} height={360} src={post.data.heroImage} alt="" />
+										)}
+										<h3 class="title">{post.data.title}</h3>
+										<p class="date">
+											<FormattedDate date={post.data.pubDate} />
+										</p>
+									</a>
+								</li>
+							))
+						}
+					</ul>
+				</section>
 
 				<p id="no-results" style="display: none;">Sonuç bulunamadı.</p>
 			</section>
