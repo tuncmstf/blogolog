@@ -20,6 +20,13 @@ const { title, description, image, type = 'website', publishDate, modifiedDate }
 const socialImageURL = new URL(image ? image.src : '/blogolog-logo.webp', Astro.site);
 ---
 
+<!-- Client-side Redirect for pages.dev -->
+<script is:inline>
+  if (window.location.hostname.includes('pages.dev')) {
+    window.location.replace("https://blogolog.com.tr" + window.location.pathname + window.location.search + window.location.hash);
+  }
+</script>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9Y38PQSL0L"></script>
 <script>
