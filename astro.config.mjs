@@ -10,5 +10,5 @@ export default defineConfig({
 	integrations: [mdx(), sitemap({
 		filter: (page) => page !== 'https://blogolog.com.tr/google3cacbdbb5cbfdfb4.html' && !page.includes('/drafts/'),
 	})],
-	trailingSlash: 'never',
+	trailingSlash: 'always',
 });

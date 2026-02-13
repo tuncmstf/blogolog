@@ -4,7 +4,7 @@ const robotsTxt = `
 User-agent: *
 Allow: /
 
-Sitemap: ${import.meta.env.SITE}/sitemap-index.xml
+Sitemap: ${import.meta.env.SITE || 'https://blogolog.com.tr'}/sitemap-index.xml
 `.trim();
 
 export const GET: APIRoute = () => {
