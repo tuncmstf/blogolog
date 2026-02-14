@@ -8,7 +8,7 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
 	site: process.env.SITE || 'https://blogolog.com.tr',
 	integrations: [mdx(), sitemap({
-		filter: (page) => page !== 'https://blogolog.com.tr/google3cacbdbb5cbfdfb4.html' && !page.includes('/drafts/'),
+		filter: (page) => page !== 'https://blogolog.com.tr/google3cacbdbb5cbfdfb4.html' && !page.includes('/drafts/') && !page.includes('/about'),
 	})],
 	trailingSlash: 'always',
 });
