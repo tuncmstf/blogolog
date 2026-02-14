@@ -11,8 +11,7 @@ const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 
-// Extract unique tags from all posts
-const allTags = [...new Set(posts.flatMap(post => post.data.tags || []))].sort();
+
 ---
 
 <!doctype html>
@@ -60,35 +59,7 @@ const allTags = [...new Set(posts.flatMap(post => post.data.tags || []))].sort()
 				border-color: rgb(var(--accent));
 			}
 			
-			.tags-container {
-				display: flex;
-				flex-wrap: wrap;
-				gap: 0.5rem;
-				margin-bottom: 2rem;
-			}
-			
-			.tag-chip {
-				padding: 0.5rem 1rem;
-				background: rgb(var(--gray-light));
-				border: 2px solid transparent;
-				border-radius: 20px;
-				font-size: 0.9rem;
-				cursor: pointer;
-				transition: all 0.2s ease;
-				font-family: inherit;
-				color: rgb(var(--black));
-			}
-			
-			.tag-chip:hover {
-				background: rgb(var(--gray));
-				color: white;
-			}
-			
-			.tag-chip.active {
-				background: rgb(var(--accent));
-				color: white;
-				border-color: rgb(var(--accent));
-			}
+
 			
 			#no-results {
 				text-align: center;
@@ -189,16 +160,6 @@ const allTags = [...new Set(posts.flatMap(post => post.data.tags || []))].sort()
 					/>
 				</div>
 
-				{allTags.length > 0 && (
-					<div class="tags-container">
-						{allTags.map((tag) => (
-							<button class="tag-chip" data-tag={tag}>
-								{tag}
-							</button>
-						))}
-					</div>
-				)}
-
 				<section aria-labelledby="posts-heading">
 					<h2 id="posts-heading" class="sr-only">Tüm Yazılar</h2>
 					<ul id="posts-list">
@@ -230,11 +191,9 @@ const allTags = [...new Set(posts.flatMap(post => post.data.tags || []))].sort()
 		<Footer />
 
 		<script>
-			const searchInput = document.getElementById('search-input') as HTMLInputElement;
-			const postsList = document.getElementById('posts-list') as HTMLUListElement;
-			const noResults = document.getElementById('no-results') as HTMLParagraphElement;
-			const tagChips = document.querySelectorAll('.tag-chip');
-			let selectedTag: string | null = null;
+			const searchInput = document.getElementById('search-input');
+			const postsList = document.getElementById('posts-list');
+			const noResults = document.getElementById('no-results');
 
 			function filterPosts() {
 				const searchText = searchInput.value.toLowerCase();
@@ -244,22 +203,16 @@ const allTags = [...new Set(posts.flatMap(post => post.data.tags || []))].sort()
 				posts.forEach((post) => {
 					const title = post.getAttribute('data-title') || '';
 					const description = post.getAttribute('data-description') || '';
-					const tags = post.getAttribute('data-tags') || '';
 					
 					// Check search match
 					const matchesSearch = !searchText || 
 						title.includes(searchText) || 
-						description.includes(searchText) || 
-						tags.includes(searchText);
+						description.includes(searchText);
 					
-					// Check tag filter
-					const matchesTag = !selectedTag || tags.split(',').includes(selectedTag);
+					// Show if matches search
+					post.style.display = matchesSearch ? '' : 'none';
 					
-					// Show if matches both search and tag filter
-					const shouldShow = matchesSearch && matchesTag;
-					(post as HTMLElement).style.display = shouldShow ? '' : 'none';
-					
-					if (shouldShow) visibleCount++;
+					if (matchesSearch) visibleCount++;
 				});
 
 				// Show/hide "no results" message
@@ -268,27 +221,6 @@ const allTags = [...new Set(posts.flatMap(post => post.data.tags || []))].sort()
 
 			// Search input handler
 			searchInput.addEventListener('input', filterPosts);
-
-			// Tag chip click handlers
-			tagChips.forEach((chip) => {
-				chip.addEventListener('click', () => {
-					const tag = chip.getAttribute('data-tag');
-					
-					// Toggle selection
-					if (selectedTag === tag) {
-						selectedTag = null;
-						chip.classList.remove('active');
-					} else {
-						// Remove active from all chips
-						tagChips.forEach(c => c.classList.remove('active'));
-						// Set new selection
-						selectedTag = tag;
-						chip.classList.add('active');
-					}
-					
-					filterPosts();
-				});
-			});
 		</script>
 	</body>
 </html>
