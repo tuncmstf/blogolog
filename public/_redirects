@@ -2,6 +2,10 @@
 http://* https://:splat 301!
 
 # Redirect pages.dev to Custom Domain
+# Explicit subpath redirects first to ensure they are caught
+https://blogolog.pages.dev/blog/* https://blogolog.com.tr/blog/:splat 301!
+https://blogolog.pages.dev/tags/* https://blogolog.com.tr/tags/:splat 301!
+# Global catch-all
 https://blogolog.pages.dev/* https://blogolog.com.tr/:splat 301!
 
 # WWW to Non-WWW
@@ -12,8 +16,8 @@ https://www.blogolog.com.tr/* https://blogolog.com.tr/:splat 301!
 /*/ /:splat 301! 
 
 # Custom Redirects
-/blog/kahve-nasil-demlenir /blog/kahve-nasil-yapilir 301
-/blog/kahve-nasil-demlenir/ /blog/kahve-nasil-yapilir 301
+/blog/kahve-nasil-demlenir https://blogolog.com.tr/blog/kahve-nasil-yapilir 301
+/blog/kahve-nasil-demlenir/ https://blogolog.com.tr/blog/kahve-nasil-yapilir 301
 
 # Temporary Redirects
 /about / 302
