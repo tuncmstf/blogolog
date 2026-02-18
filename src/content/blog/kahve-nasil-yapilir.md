@@ -3,7 +3,6 @@ title: 'Kahve Nasıl Yapılır?'
 description: 'Kahve yapma rehberi: Evde kahve yapımı için ideal su sıcaklığı, kahve–su oranı, öğütüm ayarı ve demleme süresi; French press, moka pot, Türk kahvesi ve buzlu kahve.'
 pubDate: 'Feb 11 2026'
 heroImage: '../../assets/kahve-nasil-yapilir.avif'
-tags: ['kahve', 'rehber']
 ---
 
 Kahve yapmak, öğütülmüş kahveden suyla kontrollü şekilde tat ve aroma bileşenlerini çözüp fincana aktırma işlemidir.
@@ -163,23 +162,7 @@ Kahvenin yoğunluğu düşükse süt tadı baskın olur; denge için bazın yoğ
 ## Türk Kahvesi Nasıl Yapılır?
 
 Türk kahvesi, çok ince öğütülmüş kahvenin suyla cezvede pişirilerek telvesiyle servis edilmesidir.
-Köpük, pişirme kontrolü ve döküm tekniği Türk kahvesinin karakterini belirler.
-
-### Evde Türk Kahvesi Nasıl Yapılır?
-
-Evde Türk kahvesi yapmak için cezvede kahve ve suyu karıştırıp kısık/orta ateşte köpük oluşana kadar pişirirsin.
-
-Çok yüksek ateş köpüğü düşürebilir; kontrollü ısıtma daha iyi köpük ve daha dengeli tat sağlar.
-
-### Bir Kahve Fincanı İçin Kaç Ölçü Türk Kahvesi Kullanılmalı?
-
-**Tablo tanımı:** Aşağıdaki tablo, fincan sayısına göre Türk kahvesi ölçüsünü pratik şekilde gösterir.
-
-| Fincan | Kahve ölçüsü | Su |
-| :--- | :--- | :--- |
-| 1 | 1 ölçü | 1 fincan su |
-| 2 | 2 ölçü | 2 fincan su |
-| 3 | 3 ölçü | 3 fincan su |
+Köpük, pişirme kontrolü ve döküm tekniği Türk kahvesinin karakterini belirler. [Türk kahvesinin nasıl yapıldığını](/blog/turk-kahvesi-nasil-yapilir) detaylı incelemek gerekir.
 
 ## Kahve Ölçüleri ve Oranları
 
