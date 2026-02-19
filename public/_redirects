@@ -21,6 +21,12 @@ https://www.blogolog.com.tr/* https://blogolog.com.tr/:splat 301!
 /blog/kahve-nasil-demlenir https://blogolog.com.tr/blog/kahve-nasil-yapilir 301
 /blog/kahve-nasil-demlenir/ https://blogolog.com.tr/blog/kahve-nasil-yapilir 301
 
+# Legacy Tag Redirects
+/tags/kahve / 301
+/tags/kahve/ / 301
+/tags/rehber / 301
+/tags/rehber/ / 301
+
 # Temporary Redirects
 /about / 302
 /about/ / 302
